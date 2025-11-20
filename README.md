@@ -2,7 +2,7 @@
 
 A full-stack application that allows users to submit product reviews **via WhatsApp**, which are stored in **PostgreSQL** and displayed in a **React web dashboard**. The chatbot intelligently handles the conversation and ensures a smooth user experience.
 
-
+[Loom Video](https://www.loom.com/share/1c0d33670eb84ce5a8be6e9ec34ffff5)
 ## 🚀 Live Deployment
 
 | Component | URL |
